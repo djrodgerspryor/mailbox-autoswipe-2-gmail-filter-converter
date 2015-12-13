@@ -2,7 +2,7 @@
 Migrate your mailbox autoswipe settings to gmail.
 
 ## Requirements
-  * Python 3
+  * Python 3 (https://www.python.org/downloads/)
   * The lxml package
 
 You can run `pip install -r requirements.txt` to install the lxml package. Note, you may need to use `pip3` rather than `pip` depending on how your system is configured.
